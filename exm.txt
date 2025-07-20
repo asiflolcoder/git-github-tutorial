@@ -1,1 +1,2 @@
 this is an example file to test git
+My friend emon has added some text
