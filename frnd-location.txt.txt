@@ -1,0 +1,1 @@
+this is a friend-location file to practice git push to another branch
